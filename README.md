@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/codelex-io/prep-course-day-two)
+
 # Easy Exercises
 
 Probably most of the _Warm Up_ exercises are finished if you have managed to get this far.
